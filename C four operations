@@ -29,13 +29,10 @@ int main( void ){
 		printf( "계산할 수 없음" );
 		break;
 	}
- 
+ 	
+	printf("수정부분\n");
 	return 0;
-	fuck you;
-
-	I don't know!!!
-
-	hi;
+	
 }
 
 void stupid() {
